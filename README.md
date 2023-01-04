@@ -2,7 +2,7 @@
 
 ![pacman](fig/pacman.gif)
 
-This is repository for PACMAN AI project for Articifial Intelligence 2022 course (COSE36103) of Korea University. I got A^+ in this course 👍🏻.
+This is repository for PACMAN AI project for Articifial Intelligence 2022 course (COSE36103) of Korea University. I got A^{+} in this course 👍🏻.
 
 ### 🎮 How to run pacman?
 
