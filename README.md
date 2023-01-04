@@ -6,7 +6,7 @@ This is repository for PACMAN AI project on Articifial Intelligence 2022 course 
 
 ### 🎮 How to run pacman?
 
-If you run command below, Pacman AI implemented in `2018320141.py` will be compared with every baselines for 10 times each. The comparison results will be stored in `output.csv`
+If you run command below, Pacman AI implemented in `2018320141.py` will be compared with every baselines for 10 times each. The comparison results will be automatically stored in `output.csv`.
 
 ```
 python capture.py 2018320141.py -n 10
