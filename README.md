@@ -22,3 +22,7 @@ To play pacman with your own control, run the command below:
 ```
 python capture.py
 ```
+
+### Result
+
+<img src="fig/result.png" width="200">
