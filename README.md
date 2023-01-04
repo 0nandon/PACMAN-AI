@@ -14,6 +14,6 @@ python capture.py 2018320141.py -n 10
 
 You can determine red team and blue team with -r, -b argument like below:
 
-``
+```
 python capture.py -r your_baseline.py -b your_baseline2.py
 ```
