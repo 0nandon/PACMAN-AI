@@ -25,4 +25,4 @@ python capture.py
 
 ### Result
 
-<img src="fig/result.png" width="400">
+<img src="fig/result.png" width="300">
