@@ -17,3 +17,8 @@ You can determine red team and blue team with -r, -b argument like below:
 ```
 python capture.py -r your_baseline.py -b your_baseline2.py
 ```
+
+To play pacman with your own control, run the command below:
+```
+python capture.py
+```
